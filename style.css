@@ -16,7 +16,7 @@ body , html{
   position: absolute;
   top: 15px;
   left: 230px;
-  gap: 15%;
+  gap: 9%;
 }
 .social li:hover {
   transform: scale(1) translateY(-4px);
